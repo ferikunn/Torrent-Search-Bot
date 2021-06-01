@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005 & Hemanta Pokharel & The Anon Cat
+# (c) @xflicks & @AbirHasan2005 & Hemanta Pokharel & The Anon Cat
 
 import py1337x
 
