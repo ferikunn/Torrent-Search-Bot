@@ -28,7 +28,7 @@ async def start_handler(_, message: Message):
                  InlineKeyboardButton("Go Inline", switch_inline_query="!pts ")],
                 [InlineKeyboardButton("Search 1337x", switch_inline_query_current_chat=""),
                  InlineKeyboardButton("Go Inline", switch_inline_query="")],
-                [InlineKeyboardButton("Developer: @AbirHasan2005", url="https://t.me/AbirHasan2005")]
+                [InlineKeyboardButton("Developer: @xflicks", url="https://t.me/xflicks")]
             ]
         )
     )
