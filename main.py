@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005 & Jigar Varma & Hemanta Pokharel & Akib Hridoy
+# (c) @xflicks & @AbirHasan2005 & Jigar Varma & Hemanta Pokharel & Akib Hridoy
 
 import py1337x
 import aiohttp
